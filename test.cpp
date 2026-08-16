@@ -7,11 +7,9 @@ int main(){
 	int b;
 	cout << "multiplicand : ";
 	cin >> a;
-       	cout << endl;
 	cout << "multiplier : ";
 	cin >> b ;
-	cout << endl;
 	long long product = multiply(a, b);
-	cout << product;
+	cout << product << endl;
 	return 0;
 }
