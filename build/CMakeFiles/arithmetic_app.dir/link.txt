@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/arithmetic_app.dir/arithmetic.cpp.o CMakeFiles/arithmetic_app.dir/test.cpp.o -o arithmetic_app 

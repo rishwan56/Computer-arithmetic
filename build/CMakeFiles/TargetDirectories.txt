@@ -1,0 +1,3 @@
+/home/rishwan56/rishwan_program/projects/Computer-arithmetic/build/CMakeFiles/arithmetic_app.dir
+/home/rishwan56/rishwan_program/projects/Computer-arithmetic/build/CMakeFiles/edit_cache.dir
+/home/rishwan56/rishwan_program/projects/Computer-arithmetic/build/CMakeFiles/rebuild_cache.dir
