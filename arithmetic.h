@@ -1,0 +1,1 @@
+int mutliply(int multiplicand, int multiplier);
