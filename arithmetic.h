@@ -1,1 +1,1 @@
-long long mutliply(int multiplicand, int multiplier);
+long long multiply(int multiplicand, int multiplier);

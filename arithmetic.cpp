@@ -1,5 +1,5 @@
 #include "arithmetic.h"
-long long mutliply(int multiplicand, int multiplier) {
+long long multiply(int multiplicand, int multiplier) {
 	long long product = 0;
 	int sign;
 	if(multiplicand < 0 && multiplier < 0) sign = 1;
