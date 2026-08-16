@@ -6,9 +6,11 @@ int main(){
 	int a;
 	int b;
 	cout << "multiplicand : ";
-	cin >> a << endl;
+	cin >> a;
+       	cout << endl;
 	cout << "multiplier : ";
-	cin >> b << endl;
+	cin >> b ;
+	cout << endl;
 	long long product = multiply(a, b);
 	cout << product;
 	return 0;
